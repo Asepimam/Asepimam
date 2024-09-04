@@ -1,4 +1,3 @@
-# 💫 About Me:
 I'm **Asep Imam Mutaqin**, an Information Technology student at **Universitas Bina Sarana Informatika** with a passion for **Back-end development**. I enjoy creating projects that solve real-world problems and constantly improve my skills in various web technologies.<br><br>🔧 **Skills**:<br>- Back-end Development<br>- Red Hat System Administration<br><br>When I'm not coding, I love sharing my knowledge and experiences with others on forums and communities. I'm always eager to learn new things and collaborate on exciting projects.<br><br>Feel free to explore my repositories and let's connect!<br><br>🌱 Currently learning and growing in the world of Back-end development.<br>💻 Building and experimenting with new projects.<br>📚 Passionate about sharing knowledge and contributing to the developer community.
 
 
